@@ -1,3 +1,3 @@
 # TemperatureConverter
-Made a Temperature Converter using HTML CSS and JAVASCRIPT where user can convert temperature
-in Celsius To Farhenheit and Farhenheit To Celsius
+Made a Temperature Converter using HTML CSS and JAVASCRIPT where User can convert Temperature
+in Celsius To Farhenheit and temperature in Farhenheit To Celsius
